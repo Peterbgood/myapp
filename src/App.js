@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< HEAD
           Hello PG
+=======
+          Edit <code>src/App.js</code> and save to reload.
+>>>>>>> 76aa386 (Initial commit)
         </p>
         <a
           className="App-link"
@@ -15,7 +19,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+<<<<<<< HEAD
           Learn
+=======
+          Learn React
+>>>>>>> 76aa386 (Initial commit)
         </a>
       </header>
     </div>
